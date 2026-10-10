@@ -1,0 +1,13 @@
+{
+  "name": "campuspulse",
+  "version": "2.0.0",
+  "description": "Smart Campus Availability & Queue Intelligence — Know Before You Go",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["campus", "smart-campus", "queue-intelligence", "hackathon"],
+  "author": "CampusPulse Team",
+  "license": "MIT"
+}

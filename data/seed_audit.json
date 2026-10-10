@@ -1,0 +1,54 @@
+[
+  {
+    "id": "audit-1",
+    "facilityId": "cse-prog-lab",
+    "facilityName": "CSE Programming & Data Structures Lab",
+    "oldStatus": "available",
+    "newStatus": "moderate",
+    "approximateOccupancy": 42,
+    "capacity": 60,
+    "estimatedWaitMinutes": 10,
+    "statusNote": "Batch 3 Data Structures lab in progress until 3:30 PM. Standby desktop rows 4 & 5 available for open practice.",
+    "updatedBy": "Rajesh Kumar (Lab Assistant)",
+    "timestamp": "2026-10-10T14:45:00.000Z"
+  },
+  {
+    "id": "audit-2",
+    "facilityId": "main-canteen",
+    "facilityName": "Main Student Food Court & Canteen",
+    "oldStatus": "moderate",
+    "newStatus": "crowded",
+    "approximateOccupancy": 194,
+    "capacity": 220,
+    "estimatedWaitMinutes": 18,
+    "statusNote": "Lunch rush peak period. Counter 2 (Quick Bites & Thali) has shorter lines than Counter 1.",
+    "updatedBy": "Anita Desai (Supervisor)",
+    "timestamp": "2026-10-10T14:52:00.000Z"
+  },
+  {
+    "id": "audit-3",
+    "facilityId": "central-lib-reading",
+    "facilityName": "Central Library — Main Reading Hall",
+    "oldStatus": "crowded",
+    "newStatus": "moderate",
+    "approximateOccupancy": 137,
+    "capacity": 180,
+    "estimatedWaitMinutes": 5,
+    "statusNote": "Window cubicles currently occupied. Ground-level reference tables have 40+ vacant seats.",
+    "updatedBy": "Anita Desai (Supervisor)",
+    "timestamp": "2026-10-10T14:48:00.000Z"
+  },
+  {
+    "id": "audit-4",
+    "facilityId": "exam-cell",
+    "facilityName": "Controller of Examinations (Exam Cell)",
+    "oldStatus": "moderate",
+    "newStatus": "crowded",
+    "approximateOccupancy": 28,
+    "capacity": 30,
+    "estimatedWaitMinutes": 30,
+    "statusNote": "Mid-term exam re-evaluation applications closing today. Please take a digital queue token.",
+    "updatedBy": "Dr. S. Ramanathan (Admin)",
+    "timestamp": "2026-10-10T14:49:00.000Z"
+  }
+]

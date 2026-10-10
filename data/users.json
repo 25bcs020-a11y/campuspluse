@@ -1,0 +1,59 @@
+[
+  {
+    "id": "user-student-1",
+    "name": "rithika",
+    "role": "student",
+    "roleTitle": "Student",
+    "department": "Computer Science & Engineering",
+    "email": "rithikanataraj0@gmail.com",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "assignedFacilities": []
+  },
+  {
+    "id": "user-lab-asst-1",
+    "name": "Rajesh Kumar",
+    "role": "lab_assistant",
+    "roleTitle": "Lab Assistant",
+    "department": "Computer Science & Engineering",
+    "email": "rajesh.kumar@staff.campus.edu",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+    "assignedFacilities": [
+      "comp-lab-1",
+      "comp-lab-2",
+      "comp-lab-3",
+      "comp-lab-4"
+    ]
+  },
+  {
+    "id": "user-supervisor-1",
+    "name": "Anita Desai",
+    "role": "facility_supervisor",
+    "roleTitle": "Facility Supervisor",
+    "department": "Campus Facilities & Services",
+    "email": "anita.desai@staff.campus.edu",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80",
+    "assignedFacilities": [
+      "lib-central",
+      "lib-digital",
+      "stat-repro",
+      "stat-store",
+      "cafe-main",
+      "cafe-north",
+      "admin-main",
+      "admin-exam",
+      "other-clinic"
+    ]
+  },
+  {
+    "id": "user-chief-admin-1",
+    "name": "Dr. S. Ramanathan",
+    "role": "chief_administrator",
+    "roleTitle": "Chief Administrator",
+    "department": "Dean of Campus Infrastructure",
+    "email": "admin@campus.edu",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80",
+    "assignedFacilities": [
+      "*"
+    ]
+  }
+]
